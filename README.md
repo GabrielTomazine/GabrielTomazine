@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel Tomazine and I'm a Developer Front-End.</p>
+<p align="left">My name is Gabriel Tomazine and I'm a Developer Front-End Junior.</p>
 
 ###
 
